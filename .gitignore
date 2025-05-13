@@ -1,2 +1,4 @@
 applicants.json
 .devcontainer
+.venv
+__pycache__/
